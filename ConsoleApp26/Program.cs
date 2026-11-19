@@ -10,6 +10,12 @@ namespace ConsoleApp26
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Список отелей:");
+            Console.WriteLine("1. Гранд-Отель");
+            Console.WriteLine("2. Море");
+            Console.WriteLine("3. Лесная сказка");
+            Console.ReadKey();
         }
+
     }
 }
